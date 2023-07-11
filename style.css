@@ -52,8 +52,13 @@ li {
     list-style-type: none; 
 }
 
+a {
+    text-decoration: none;
+}
+
 .tab-elem:hover {
-    font-size: 56px; 
+    transition: 0.3s; 
+    font-size: 18px; 
 }
 
 button {
